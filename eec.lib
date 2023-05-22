@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ALPS EC11E15244B2
+#
+DEF EC11E15244B2 ENC 0 40 Y Y 1 L N
+F0 "ENC" 0 200 50 H V L CNN 
+F1 "EC11E15244B2" 0 300 50 H V L CNN 
+F2 "ALPS-EC11E15244B2-*" 0 400 50 H I L CNN 
+F3 "http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15244B2.html" 0 500 50 H I L CNN 
+F4 "20mm" 0 600 50 H I L CNN "Actuator length"
+F5 "30" 0 700 50 H I L CNN "Number of detent"
+F6 "15" 0 800 50 H I L CNN "Number of pulse"
+F7 "15,000 cycles" 0 900 50 H I L CNN "Operating life"
+F8 "10mA 5V DC" 0 1000 50 H I L CNN "Ratings"
+F9 "Enc" 0 1100 50 H I L CNN "category"
+F10 "yes" 0 1200 50 H I L CNN "lead free"
+F11 "bf96b8ba6cbf8ed0" 0 1300 50 H I L CNN "library id"
+F12 "ALPS" 0 1400 50 H I L CNN "manufacturer"
+F13 "688-EC11E15244B2" 0 1500 50 H I L CNN "mouser part number"
+F14 "PTH_ENC_11MM7_12MM0" 0 1600 50 H I L CNN "package"
+F15 "yes" 0 1700 50 H I L CNN "rohs"
+F16 "+85°C" 0 1800 50 H I L CNN "temperature range high"
+F17 "-40°C" 0 1900 50 H I L CNN "temperature range low"
+DRAW
+X MNT_1 1 -100 -600 100 L 40 40 1 1 U 
+X MNT_2 2 -100 -700 100 L 40 40 1 1 U 
+X A A -100 0 100 L 40 40 1 1 U 
+X B B -100 -100 100 L 40 40 1 1 U 
+X C C -100 -200 100 L 40 40 1 1 U 
+X D D -100 -300 100 L 40 40 1 1 U 
+X E E -100 -400 100 L 40 40 1 1 U 
+S -600 100 -200 -800 1 1 0 f
+ENDDRAW
+ENDDEF
+#
+# End Library
